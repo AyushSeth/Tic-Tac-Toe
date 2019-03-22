@@ -2,7 +2,7 @@
 Using c
 
 
-About the game as you know that the first participant to amke a line passing 3 boxes wins.
+About the game as you know that the first participant to make a line passing 3 boxes wins.
 
 I have used the same logic and made the game though it may be very odd programming logic used but yes it the easiest game every one have 
 to build for the first game now. Now its your turn to build the game.
